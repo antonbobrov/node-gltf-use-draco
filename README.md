@@ -1,0 +1,1 @@
+Add a `model.gltf` to the root and run `npm run start`

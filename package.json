@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Add a `model.gltf` to the root",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "dependencies": {
+    "fs-extra": "^11.1.1",
+    "gltf-pipeline": "^4.1.0"
+  }
+}
